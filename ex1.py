@@ -1,0 +1,1 @@
+print('10 é maior que 5')

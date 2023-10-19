@@ -1,0 +1,2 @@
+nome = Rosa 
+print (idade)
